@@ -50,4 +50,6 @@
   </a>
 </div>
 
+![snake animation](https://github.com/marcosoleniuk/marcosoleniuk/blob/output/github-contribution-grid-snake2.svg)
+
 ###

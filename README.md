@@ -50,6 +50,6 @@
   </a>
 </div>
 
-![snake gif](https://github.com/marcosoleniuk/marcosoleniuk/blob/output/github-contribution-grid-snake.svg)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/marcosoleniuk/marcosoleniuk/output/github-contribution-grid-snake.svg" />
 
 ###

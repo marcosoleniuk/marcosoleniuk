@@ -31,7 +31,7 @@
   <a href="https://www.instagram.com/marcos.oleniuk" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-B16286?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://wa.me/44998425745" target="_blank" rel="noreferrer">
+  <a href="https://wa.me/44988099508" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-689D6A?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
